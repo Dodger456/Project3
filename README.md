@@ -1,3 +1,3 @@
 # Project3
 
-I made changes to the ImageUtils class so it will be necessary to downloud it again.
+I made changes to the ImageUtils class so it will be necessary to download it again.
