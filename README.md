@@ -2,5 +2,5 @@
 
 I made changes to the ImageUtils class so it will be necessary to download it again.
 
-*Warning*
+*Warning:
 May cause seizures.
